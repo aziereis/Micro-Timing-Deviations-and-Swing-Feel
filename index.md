@@ -1,20 +1,18 @@
-## Welcome to GitHub Pages
+## Swingt es?
 
-You can use the [editor on GitHub](https://github.com/aziereis/swing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+„It Don’t Mean a Thing, If It Ain’t Got That Swing" meinten Duke Ellington und Irving Mills bereits in ihrem bekannten Jazz Standard aus dem Jahr 1931. Aber was bringt ein Jazzstück eigentlich zum swingen? 
+In einer experimentellen Onlinestudie ist eine Forschergruppe des Max-Planck-Instituts für Dynamik und Selbstorganisation und des Georg-Elias-Müller Instituts für Psychologie in Göttingen dem Phänomen auf den Grund gegangen. Insbesondere sehr kleine Fluktuationen im Rhythmus (*Microtiming Deviations*) und deren Einfluss auf das *swing feel* standen hierbei im Fokus. 
+Im ersten Schritt wurden bekannte Jazzstücke aufgenommen und die *Microtiming Deviations* des Pianisten untersucht und anschließend experimentell verändert. In einem zweiten Schritt wurden dann die originalen und veränderten Versionen der Stücke professionellen und Amateur- Musiker\*innen (mit Jazz oder klassichem Hintergrund) vorgespielt und von diesen bewertet. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Hintergrund
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Vorgehensweise
 
+
+### Ergebnisse
 - Bulleted
 - List
 
@@ -24,7 +22,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
