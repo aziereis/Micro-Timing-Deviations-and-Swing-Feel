@@ -72,7 +72,7 @@ Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es tec
 Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
 
 **Bsp. 1:**
-[Play](https://github.com/aziereis/swing/blob/master/getaround_0.mp3)
+[Play](getaround_0.mp3)
 
 
 <details>
