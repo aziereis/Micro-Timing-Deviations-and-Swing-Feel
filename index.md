@@ -70,7 +70,7 @@ Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es tec
 ! Den Teilnemer\*innen unserer Studie haben wir nicht verraten, um welches Stück und um welche Version es sich handelt. 
 
 Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
-
+<br>
 **Bsp. 1:**
 <audio controls>
   <source src="getaround_0.mp3" type="audio/mpeg">
@@ -79,11 +79,10 @@ Your browser does not support the audio element.
 
 <details>
 <summary>Auflösung</summary>
-Stück: Don't get around much anymore
- 
+Stück: Don't get around much anymore <br>
 Version: quantisiert
 </details>
-
+<br>
 **Bsp. 2:**
 <audio controls>
   <source src="four_orig.mp3" type="audio/mpeg">
@@ -92,22 +91,19 @@ Your browser does not support the audio element.
 
 <details>
 <summary>Auflösung</summary>
-Stück: Four
- 
+Stück: Four <br>
 Version: original
 </details>
-
+<br>
  **Bsp. 3:**
 <audio controls>
   <source src="papermoon_2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-
 <details>
 <summary>Auflösung</summary>
-Stück: It's only a papermoon
- 
+Stück: It's only a papermoon<br>
 Version: verdoppelt
 </details>
  
@@ -120,36 +116,35 @@ Your browser does not support the audio element.
 
 <details>
 <summary>Auflösung</summary>
-Stück: In a mellow tone
- 
+Stück: In a mellow tone<br>
 Version: invertiert
 </details>
 
 
-
-**Bsp. 5: Alle Versionen des Stücks "Jordu" zum Vergleich: **
-
-original
+<br>
+**Bsp. 5: Alle Versionen des Stücks "Jordu" zum Vergleich**
+<br>
+original<br>
 <audio controls>
   <source src="jordu_orig.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-quantisiert
+quantisiert<br>
 
 <audio controls>
   <source src="jordu_0.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-verdoppelt
+verdoppelt<br>
 
 <audio controls>
   <source src="jordu_2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-invertiert
+invertiert<br>
 
 <audio controls>
   <source src="jordu_-1.mp3" type="audio/mpeg">
