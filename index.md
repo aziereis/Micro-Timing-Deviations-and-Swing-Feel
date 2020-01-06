@@ -1,4 +1,4 @@
-![Header](https://github.com/aziereis/swing/blob/master/jazzpicNew.PNG)
+![Header](https://github.com/aziereis/swing/raw/master/jazzpicNew.PNG)
 # Swingt es?
 
 „It Don’t Mean a Thing, If It Ain’t Got That Swing" meinten Duke Ellington und Irving Mills bereits in ihrem bekannten Jazz Standard aus dem Jahr 1931. Aber was bringt ein Jazzstück eigentlich zum swingen? 
@@ -11,7 +11,7 @@ Im ersten Schritt nahmen wir bekannte Jazzstücke gespielt von einem professione
 
 ## Vorgehensweise
 ### 1. Aufnahme der Jazzstücke
- <img src="https://github.com/aziereis/swing/blob/master/aufnahme.png" alt="Aufnahme" height="100">
+ <img src="https://github.com/aziereis/swing/raw/master/aufnahme.png" alt="Aufnahme" height="100">
 
 Für die zwölf Musikstücke (alles Jazz standards) nahmen wir einen professionellen Pianisten auf. Während er spielte, hörte er über Kopfhörer einen quantisierten Track (ohne Microtiming Deviations) mit Bass und Schlagzeug als Tempogeber, welcher sozusagen die Funktion eines Metronoms übernahm aber dabei natürlicher klang. 
 
