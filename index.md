@@ -1,4 +1,4 @@
-![Header](https://github.com/aziereis/swing/raw/master/jazzpicNew.PNG)
+![Header](jazzpicNew.PNG)
 # Swingt es?
 
 „It Don’t Mean a Thing, If It Ain’t Got That Swing" meinten Duke Ellington und Irving Mills bereits in ihrem bekannten Jazz Standard aus dem Jahr 1931. Aber was bringt ein Jazzstück eigentlich zum swingen? 
