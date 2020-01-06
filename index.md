@@ -167,6 +167,3 @@ Your browser does not support the audio element.
 Den Forschungsartikel auf Englisch + weitere Informationen sowie alle Musikbeispiele finden Sie frei zugänglich hier: 
  [Nature Scientific reports](https://www.nature.com/articles/s41598-019-55981-3).
 
-
-...
-{% include open-embed.html %}
