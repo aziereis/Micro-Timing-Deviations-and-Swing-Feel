@@ -72,10 +72,8 @@ Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es tec
 Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
 
 **Bsp. 1:**
-<audio controls="controls">
-  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/getaround_0.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+[Play](https://github.com/aziereis/swing/blob/master/getaround_0.mp3)
+
 
 <details>
 <summary>Auflösung</summary>
@@ -84,12 +82,7 @@ Version: quantisiert
 </details>
 
 **Bsp. 2:**
-<audio controls="controls">
-  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/four_orig.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
-
+[Play](https://github.com/aziereis/swing/blob/master/four_orig.mp3)
 <details>
 <summary>Auflösung</summary>
 Stück: Four
@@ -97,10 +90,7 @@ Version: original
 </details>
 
  **Bsp. 3:**
-<audio controls="controls">
-  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/papermoon_2.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+[Play](https://github.com/aziereis/swing/blob/master/papermoon_2.mp3)
 
 <details>
 <summary>Auflösung</summary>
@@ -109,10 +99,7 @@ Version: verdoppelt
 </details>
  
  **Bsp. 4:**
-<audio controls="controls">
-  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/mellow_-1.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+[Play](https://github.com/aziereis/swing/blob/master/mellow_-1.mp3)
 
 <details>
 <summary>Auflösung</summary>
