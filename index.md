@@ -4,7 +4,7 @@
 Den Forschungsartikel auf Englisch + weitere Informationen sowie alle Musikbeispiele finden Sie frei zugänglich hier: 
  [Nature Scientific reports](https://www.nature.com/articles/s41598-019-55981-3).
  
- <img src="swingtes.png" alt="Swingt es?" height="300">
+# Swingt es?
 
 „It Don’t Mean a Thing, If It Ain’t Got That Swing" meinten Duke Ellington und Irving Mills bereits in ihrem bekannten Jazz Standard aus dem Jahr 1931. Aber was bringt ein Jazzstück eigentlich zum swingen? 
 In einer experimentellen Onlinestudie sind wir, eine Forschergruppe des Max-Planck-Instituts für Dynamik und Selbstorganisation und des Georg-Elias-Müller Instituts für Psychologie in Göttingen, dem Phänomen auf den Grund gegangen. Insbesondere sehr kleine Fluktuationen im Rhythmus (*Microtiming Deviations*) und deren Einfluss auf das *swing feel* standen hierbei im Fokus. 
