@@ -72,14 +72,14 @@ Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es tec
 Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
 
 **Bsp. 1:**
-<figure>
+
     <audio
         controls
         src="https://github.com/aziereis/swing/blob/master/getaround_0.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+
 
 <details>
 <summary>Auflösung</summary>
@@ -88,14 +88,14 @@ Version: quantisiert
 </details>
 
 **Bsp. 2:**
-<figure>
+
     <audio
         controls
         src="https://github.com/aziereis/swing/blob/master/four_orig.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+
 
 <details>
 <summary>Auflösung</summary>
@@ -104,14 +104,14 @@ Version: original
 </details>
 
  **Bsp. 3:**
- <figure>
+
     <audio
         controls
         src="https://github.com/aziereis/swing/blob/master/papermoon_2.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+
 
 <details>
 <summary>Auflösung</summary>
@@ -120,14 +120,14 @@ Version: verdoppelt
 </details>
  
  **Bsp. 4:**
- <figure>
+
     <audio
         controls
         src="https://github.com/aziereis/swing/blob/master/mellow_-1.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+
 
 <details>
 <summary>Auflösung</summary>
