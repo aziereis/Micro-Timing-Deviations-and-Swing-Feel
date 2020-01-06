@@ -37,6 +37,7 @@ Die Manipulation der Aufnahmen erfolgte in mehreren Schritten. Da das Piano digi
 Zunächst aber mussten alle Noten und ihre Zählzeiten klassifiziert werden (also welche Note z.B. der erste Teil einer Triole (base note) und welcher der letzte Teil der Triole (swing note) ist). 
 
 **Exkurs: Was bedeutet *swing ratio*?**
+
 Swing ratio ist das Verhältnis der Länge zwischen Achtelnoten. Beim straight feel (wie man es z.B. aus der klassischen Musik kennt)  werden die Achtel duolisch gespielt (haben also die gleiche Länge). Die swing ratio wäre hierbei 1:1. 
  
  <img src="straight.png" alt="straight" height="40">
@@ -56,6 +57,7 @@ Um die Noten unseres Pianisten zu klassifizieren nahmen wir den quantisierten Tr
 Schematische Darstellung der Notenklassifizierung: Das Raster wurde in drei Bereiche eingeteilt (rot = base note / erste 8tel,  weiß = mittlere 8tel / pause, blau = swing note / letzte 8tel). Wenn der Beginn der gespielten Note (Noten sind hierbei als graue Balken angezeigt) in einen der Bereiche fällt, wird sie dementsprechend klassifiziert. Für die Klassifikation spielt die Länge der Note (Länge des Balkens) keine Rolle sondern nur der Beginn (Anfang des Balkens). 
 
 **Berechnung der durchschnittlichen swing ratio**
+
 Für jedes Stück wurde nun auf Basis der zeitlichen Position der swing notes die durchschnittliche swing ratio berechnet.
 Beispielsweise hatte das Stück "So What" eine durchschnittliche swing ratio von 1.57:1, während das Stück "Don’t Get Around Much Anymore" eine durchschnittliche swing ratio von 2.11:1 hatte.
 
@@ -65,6 +67,7 @@ Auf Grundlage der berechneten durchschnittlichen swing ratio für jedes Stück w
 
 
 **Manipulation der Microtiming deviations**
+
 Jedes Stück wurde auf drei verschiedene Arten manipuliert: Hierbei wurden die Microtiming deviations... 
 + *quantisiert*, d.h. alle Variation der Notenanfänge wurde herausgenommen und die Noten wurden auf ein fixes Raster (quantization grid) verschoben. (siehe Bild unten)
 + *verdoppelt*, d.h. die zeitlichen Abstände zu dem fixen Raster wurden verdoppelt (d.h. die Microtiming deviations wurden doppelt so groß gemacht). Bsp.: Wenn in Takt 1 auf Zählzeit 1 in der originalen Version die swing note 3 Millisekunden vor der durchschnittlichen swing note des Stücks kam, so kam sie in der manipulierten Version 6 Millisekunden vor der durchschnittlichen swing note. 
@@ -129,7 +132,7 @@ Your browser does not support the audio element.
 Stück: It's only a papermoon<br>
 Version: verdoppelt
 </details>
- 
+<br> 
  **Bsp. 4:**
 
 <audio controls>
@@ -144,7 +147,7 @@ Version: invertiert
 </details>
 
 
-
+<br><br>
 **Bsp. 5: Alle Versionen des Stücks "Jordu" zum Vergleich**
 original<br>
 <audio controls>
@@ -184,6 +187,7 @@ Wenn man sich die einzelnen Stücke anschaut, so wurden diese als unterschiedlic
 Auch die Befragten unterschieden sich in ihrer Bewertung. Professionelle Jazzmusiker\*innen vergaben generell etwas niedrigere swing ratings - unabhängig von Stück und Version- , waren also strenger. Aber alle Musikergruppen vergaben Ratings in der folgenden Reihenfolge:
 
 quantisiert > original & invertiert > verdoppelt
+
 Der Effekt der Microtiming deviations auf das swing rating war für alle Musikergruppen gleich. 
 
 ### Was bringt ein Stück zum swingen? Die Antworten unserer Teilnehmer\*innen
