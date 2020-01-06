@@ -72,8 +72,10 @@ Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es tec
 Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
 
 **Bsp. 1:**
-[Play](getaround_0.mp3)
-
+<audio controls>
+  <source src="getaround_0.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 <details>
 <summary>Auflösung</summary>
