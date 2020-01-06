@@ -16,14 +16,14 @@ Die Teilnehmer*\innen der Studie bewerteten im Schnitt die quantisierten Version
 
 ## Hintergrund und Motivation
 
-Wenn ein Musikstück swingt, ruft es beim Zuhörenden ein angenehmes Körpergefühl und den Wunsch hervor, sich zur Musik zu bewegen. Sei es ein Wippen mit dem Fuß oder Nicken ... man wird von der Musik ein Stück weit mitgerissen. Es ist aus wissenschaftlicher Sicht schwierig, das swing feel (oder auf sein verwandtes Konzept "groove") zu definieren. Musiker*\innen und viele Musikbegeisterte haben aber intuitiv ein Gespür dafür, was es bedeutet und die Allermeisten haben es schon selbst erlebt. 
+Wenn ein Musikstück swingt, ruft es beim Zuhörenden ein angenehmes Körpergefühl und den Wunsch hervor, sich zur Musik zu bewegen. Sei es ein Wippen mit dem Fuß oder Nicken ... man wird von der Musik ein Stück weit mitgerissen. Es ist aus wissenschaftlicher Sicht schwierig, das *swing feel* (oder sein verwandtes Konzept *groove*) zu definieren. Musiker*\innen und viele Musikbegeisterte haben aber intuitiv ein Gespür dafür, was es bedeutet und die Allermeisten haben es schon selbst erlebt. <br>
 In der musikwissenschaftlichen Forschung wurde seit einigen Jahren versucht, Eigenschaften von Musikstücken zu identifizieren, die groove beeinflussen. Hierbei gab es zwei Ansätze: 
 1) die Analyse von bestimmten Eigenschaften (z.B. Tempo, swing ratio (Erklärung s.u.), spezifischer Stil) von Musikstücken von bekannten und swingenden Musiker*\innen und 
 2) die experimentelle Manipulation von einzelnen Faktoren, die dann Hörer*\innen vorgespielt und von ihnen bewertet wurden.
 
 Die unterschiedlichen Ansätze wurden von unterschiedlichen Forscher*\innen verfolgt und führten zu unterschiedlichen Ansichten bezüglich der Rolle von Microtiming deviations (also die kleinen rhythmischen Abweichungen). 
 Ob diese notwendig sind, um ein Stück swingen oder grooven zu lassen, wurde besonders in den letzten Jahren stark debattiert.
-Auf der einen Seite wurden Microtiming Deviations bei swingenden Musiker*\innen immer gefunden und ihnen wurden spezifische Funktionen zugeschrieben. Auf der anderen Seite fand man in Hörexperimenten keinen oder sogar einen negativen Einfluss von Microtiming Deviations  auf groove. 
+Auf der einen Seite wurden Microtiming Deviations bei swingenden Musiker*\innen immer gefunden und ihnen wurden spezifische Funktionen zugeschrieben. Auf der anderen Seite fand man in Hörexperimenten keinen oder sogar einen negativen Einfluss von Microtiming Deviations  auf groove. <br>
 Da Verfechter*\innen der notwendigen Microtiming deviations sich vor allem auf Jazz Musik beziehen und in den experimentellen Hörstudien eher andere Musikgenres untersucht wurden (z.B. Rock, Samba, Funk), wollten wir uns den Einfluss von Microtiming Deviations speziell für Jazz genauer ansehen. Außerdem wollten wir keine künstlichen Microtiming Deviations generieren, sondern die Microtiming Deviations untersuchen, die natürlicherweise von einem Solisten gespielt werden.
 
 ## Vorgehensweise
