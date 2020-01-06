@@ -11,7 +11,7 @@ Im ersten Schritt nahmen wir bekannte Jazzstücke gespielt von einem professione
 
 ## Vorgehensweise
 ### 1. Aufnahme der Jazzstücke
- <img src="https://github.com/aziereis/swing/raw/master/aufnahme.png" alt="Aufnahme" height="100">
+ <img src="aufnahme.png" alt="Aufnahme" height="100">
 
 Für die zwölf Musikstücke (alles Jazz standards) nahmen wir einen professionellen Pianisten auf. Während er spielte, hörte er über Kopfhörer einen quantisierten Track (ohne Microtiming Deviations) mit Bass und Schlagzeug als Tempogeber, welcher sozusagen die Funktion eines Metronoms übernahm aber dabei natürlicher klang. 
 
@@ -22,19 +22,19 @@ Zunächst aber mussten alle Noten und ihre Zählzeiten klassifiziert werden (als
 **Exkurs: Was bedeutet *swing ratio*?**
 Swing ratio ist das Verhältnis der Länge zwischen Achtelnoten. Beim straight feel werden die Achtel duolisch gespielt (haben also die gleiche Länge). Die swing ratio wäre hierbei 1:1. 
  
- <img src="https://github.com/aziereis/swing/blob/master/straight.png" alt="straight" height="40">
+ <img src="straight.png" alt="straight" height="40">
  
 Wichtig ist hierbei, dass die Länge nicht die eigentliche Dauer des Klangs ist, sondern lediglich anzeigt, wann die nächste Note einsetzt. Es spielt also keine Rolle ob die Note nur kurz oder länger angeschlagen wird. 
 Eine swing ratio von 2:1 (perfekte Triole) würde die erste 8tel Note doppelt so lange dauern, wie die letzte . Die mittlere Note der Triole wird in der Regel nicht extra angespielt sondern mit der ersten verbunden. Das kann folgendermaßen notiert werden:
  
- <img src="https://github.com/aziereis/swing/blob/master/swung.png" alt="swung" height="70">
+ <img src="swung.png" alt="swung" height="70">
  
 In der Realität und von Musikern gespielt sind swing ratios weder perfekt konstant noch liegen sie unbedingt genau bei 2:1 sondern können je nach Präferenz auch weicher (<2:1) oder härter sein (>2:1). Zusätzlich muss der Beginn der ersten Achtel nicht perfekt auf Schlag liegen sondern kann früher oder später kommen. 
  
 
 Um die Noten unseres Pianisten zu klassifizieren nahmen wir den quantisierten Track mit Bass und Schlagzeug als Referenz. Da die swing ratio des Tracks exakt 2:1 (perfekte Triole) war, wurden alle Noten entsprechend ihrer Nähe zu diesem Raster eingeteilt (siehe Bild unten). Die Noten wurden hierbei noch nicht verschoben sondern nur kategorisiert. 
 
- <img src="https://github.com/aziereis/swing/blob/master/classification.png" alt="classification" height="207">
+ <img src="classification.png" alt="classification" height="207">
 Schematische Darstellung der Noteneinteilung: Das Raster wurde in drei Bereiche eingeteilt (rot = base note / erste 8tel,  weiß = mittlere 8tel, blau = swing note / letzte 8tel). Wenn der Beginn der gespielten Note (Noten sind hierbei als graue Balken angezeigt) in einen der Bereiche fällt, wird sie dementsprechend klassifiziert. Für die Klassifikation spielt die Länge der Note keine Rolle sondern nur der Beginn (Anfang des Balkens). 
 
 **Berechnung der durchschnittlichen swing ratio**
@@ -54,7 +54,7 @@ Jedes Stück wurde auf drei verschiedene Arten manipuliert: Hierbei wurden die M
 
 Schematische Darstellung der Quantisierung:
 
-<img src="https://github.com/aziereis/swing/blob/master/manipulation.png" alt="manipulation" height="207">
+<img src="manipulation.png" alt="manipulation" height="207">
 
 Das neue Quantisierungsraster zeigt als neue swing ratio (dunkelblau gestrichelte Linie) die durchschnittliche swing ratio für das jeweilige Stück an. In diesem Beispiel wäre die swing ratio kleiner (d.h. < 2:1) als für die Klassifizierung (hellblau gestrichelte Linie). 
 Da Musiker, so geübt und professionell sie spielen können, selten konstant die exakt gleiche swing ratio zeigen (unabhängig davon, ob sie das überhaupt wollen), gibt es immer auch kleine Abweichungen von der durchschnittlichen swing ratio. 
@@ -125,6 +125,8 @@ Stück: In a mellow tone
 Version: invertiert
 </details>
 
+
+
 **Bsp. 5: Alle Versionen des Stücks "Jordu" zum Vergleich: **
 
 original
@@ -150,7 +152,7 @@ Your browser does not support the audio element.
 invertiert
 
 <audio controls>
-  <source src="jordu-1.mp3" type="audio/mpeg">
+  <source src="jordu_-1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
