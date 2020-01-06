@@ -34,8 +34,9 @@ In der Realität und von Musikern gespielt sind swing ratios weder perfekt konst
 
 Um die Noten unseres Pianisten zu klassifizieren nahmen wir den quantisierten Track mit Bass und Schlagzeug als Referenz. Da die swing ratio des Tracks exakt 2:1 (perfekte Triole) war, wurden alle Noten entsprechend ihrer Nähe zu diesem Raster eingeteilt (siehe Bild unten). Die Noten wurden hierbei noch nicht verschoben sondern nur kategorisiert. 
 
- <img src="classification.png" alt="classification" height="207">
-Schematische Darstellung der Noteneinteilung: Das Raster wurde in drei Bereiche eingeteilt (rot = base note / erste 8tel,  weiß = mittlere 8tel, blau = swing note / letzte 8tel). Wenn der Beginn der gespielten Note (Noten sind hierbei als graue Balken angezeigt) in einen der Bereiche fällt, wird sie dementsprechend klassifiziert. Für die Klassifikation spielt die Länge der Note keine Rolle sondern nur der Beginn (Anfang des Balkens). 
+<img src="classification.png" alt="classification" height="207">
+ 
+Schematische Darstellung der Notenklassifizierung: Das Raster wurde in drei Bereiche eingeteilt (rot = base note / erste 8tel,  weiß = mittlere 8tel, blau = swing note / letzte 8tel). Wenn der Beginn der gespielten Note (Noten sind hierbei als graue Balken angezeigt) in einen der Bereiche fällt, wird sie dementsprechend klassifiziert. Für die Klassifikation spielt die Länge der Note keine Rolle sondern nur der Beginn (Anfang des Balkens). 
 
 **Berechnung der durchschnittlichen swing ratio**
 Für jedes Stück wurde nun auf Basis der zeitlichen Position der swing notes die durchschnittliche swing ratio berechnet.
