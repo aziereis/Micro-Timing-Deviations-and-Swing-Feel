@@ -72,14 +72,10 @@ Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es tec
 Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
 
 **Bsp. 1:**
-
-    <audio
-        controls
-        src="https://github.com/aziereis/swing/blob/master/getaround_0.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-
+<audio controls="controls">
+  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/getaround_0.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 <details>
 <summary>Auflösung</summary>
@@ -88,13 +84,10 @@ Version: quantisiert
 </details>
 
 **Bsp. 2:**
-
-    <audio
-        controls
-        src="https://github.com/aziereis/swing/blob/master/four_orig.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
+<audio controls="controls">
+  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/four_orig.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 
 <details>
@@ -104,14 +97,10 @@ Version: original
 </details>
 
  **Bsp. 3:**
-
-    <audio
-        controls
-        src="https://github.com/aziereis/swing/blob/master/papermoon_2.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-
+<audio controls="controls">
+  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/papermoon_2.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 <details>
 <summary>Auflösung</summary>
@@ -120,14 +109,10 @@ Version: verdoppelt
 </details>
  
  **Bsp. 4:**
-
-    <audio
-        controls
-        src="https://github.com/aziereis/swing/blob/master/mellow_-1.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-
+<audio controls="controls">
+  <source type="audio/mp3" src="https://github.com/aziereis/swing/blob/master/mellow_-1.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 <details>
 <summary>Auflösung</summary>
