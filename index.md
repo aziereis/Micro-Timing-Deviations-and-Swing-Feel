@@ -1,10 +1,15 @@
 ![Header](jazzpicNew.PNG)
-# Swingt es?
+### Link zur Publikation
+
+Den Forschungsartikel auf Englisch + weitere Informationen sowie alle Musikbeispiele finden Sie frei zugänglich hier: 
+ [Nature Scientific reports](https://www.nature.com/articles/s41598-019-55981-3).
+ 
+ <img src="swingtes.png" alt="Swingt es?" height="300">
 
 „It Don’t Mean a Thing, If It Ain’t Got That Swing" meinten Duke Ellington und Irving Mills bereits in ihrem bekannten Jazz Standard aus dem Jahr 1931. Aber was bringt ein Jazzstück eigentlich zum swingen? 
 In einer experimentellen Onlinestudie sind wir, eine Forschergruppe des Max-Planck-Instituts für Dynamik und Selbstorganisation und des Georg-Elias-Müller Instituts für Psychologie in Göttingen, dem Phänomen auf den Grund gegangen. Insbesondere sehr kleine Fluktuationen im Rhythmus (*Microtiming Deviations*) und deren Einfluss auf das *swing feel* standen hierbei im Fokus. 
 Im ersten Schritt nahmen wir bekannte Jazzstücke gespielt von einem professionellen Jazzmusiker auf. Dann untersuchten wir die *Microtiming Deviations* des Pianisten veränderten diese experimentell. In einem zweiten Schritt präsentierten wir die originalen und veränderten Versionen der Stücke professionellen und Amateur- Musiker\*innen (mit Jazz oder klassichem Hintergrund) und ließen die Stücke danach bewerten, inwiefern sie natürlich oder fehlerhaft klängen und wie sehr sie swingen. 
-
+Die Teilnehmer*\innen der Studie bewerteten im Schnitt die quantisierten Versionen der Stücke (also diejenigen ohne Microtiming Deviations) als am meisten swingend (bei ein paar Stücken sogar ein wenig mehr als die originalen Versionen). Diejenigen Versionen, bei denen die Microtiminge deviations verdoppelt wurden, wurden als am wenigsten swingend eingestuft. Anders als wir ursprünglich erwarteten hatte eine weitere Manipulation (Inversion der Microtiming deviations) lediglich bei zwei Stücken einen Einfluss auf die Bewertungen. 
 
 ## Hintergrund
 
@@ -68,9 +73,14 @@ Die drei Manipulationen und die originalen Aufnahme ergaben zusammen vier Versio
 Die Teilnehmer*\innen hörten dabei alle zwölf Stücke aber es wurde zugelost, welche Version des Stücks sie jeweils hören konnten. 
 Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es technisch korrekt gespielt wurde und wie sehr es swingt. 
 
+<img src="sample.png" alt="Sample" height="340">
+
+
+### 4. Beispiele der gespielten Stücke und Versionen 
+
 ! Den Teilnemer\*innen unserer Studie haben wir nicht verraten, um welches Stück und um welche Version es sich handelt. 
 
-Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
+Im Folgenden können Sie vier Beispiele anhören (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
 <br>
 **Bsp. 1:**
 <audio controls>
@@ -122,8 +132,9 @@ Version: invertiert
 </details>
 
 
-<br>
+
 **Bsp. 5: Alle Versionen des Stücks "Jordu" zum Vergleich**
+
 <br>
 original<br>
 <audio controls>
@@ -154,14 +165,21 @@ Your browser does not support the audio element.
 
 
 ## Ergebnisse der Onlinestudie
+Über alle Stücke hinweg swingten für die Teilnehmer*\innen die quantisierten Versionen ein wenig mehr als die originalen Aufnahmen. Fast gleich wie die originalen Versionen wurden die invertierten Versionen bewertet. Nur bei zwei Stücken wurden invertierte Versionen als signifikant weniger swingend eingestuft. Die Microtiming Deviations zu verdoppeln führte hingegen immer zu deutlich niedrigeren swing ratings. 
+<img src="swingresult.png" alt="Ergebnisse der swing ratings" height="300">
+
+Wenn man sich die einzelnen Stücke anschaut, so gab unterschieden sich diese generell und unabhängig von der präsentierten Version hinsichtlich der swing ratings. Es scheint daher noch mehr Einflussfaktoren zu geben, als Microtiming deviations. Mögliche Interaktionen mit anderen Einflussfaktoren sind ebenfalls denkbar. 
+Auch die Befragten unterschieden sich in ihrer Bewertung. Professionelle Jazzmusiker*\innen vergaben generell etwas niedrigere swing ratings - unabhängig von Stück und Version. Aber alle Musikergruppen vergaben Ratings in der folgenden Reihenfolge:
+
+quantisiert > original & invertiert > verdoppelt
+Der Effekt der Microtiming deviations auf das swing rating war also für alle Musikergruppen gleich. 
+
+### Was bringt ein Stück zum swingen? Die Antworten unserer Teilnehmer*\innen
+
+Am Ende unserer Studie stellten wir unseren Teilnehmer*\innen die Frage, was ihrer Meinung nach ein Stück zum swingen bringt. 
+Wir fassten ihre Schlagworte so zusammen, dass häufig genannte Begriffe größer dargestellt sind. Deutlich wird hierbei, dass der Rhythmus zwar eine große Rolle spielen mag, aber noch weitere Faktoren potentiell wichtig sein können und in weiterer Forschung untersucht werden sollten. 
+
+<img src="answers.png" alt="Sample" height="500">
 
 
-
-
-[Link](url) and ![Image](src)
-
-
-## Link zur Publikation
-Den Forschungsartikel auf Englisch + weitere Informationen sowie alle Musikbeispiele finden Sie frei zugänglich hier: 
- [Nature Scientific reports](https://www.nature.com/articles/s41598-019-55981-3).
 
