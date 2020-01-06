@@ -80,38 +80,79 @@ Your browser does not support the audio element.
 <details>
 <summary>Auflösung</summary>
 Stück: Don't get around much anymore
+ 
 Version: quantisiert
 </details>
 
 **Bsp. 2:**
-[Play](https://github.com/aziereis/swing/blob/master/four_orig.mp3)
+<audio controls>
+  <source src="four_orig.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 <details>
 <summary>Auflösung</summary>
 Stück: Four
+ 
 Version: original
 </details>
 
  **Bsp. 3:**
-[Play](https://github.com/aziereis/swing/blob/master/papermoon_2.mp3)
+<audio controls>
+  <source src="papermoon_2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 
 <details>
 <summary>Auflösung</summary>
 Stück: It's only a papermoon
+ 
 Version: verdoppelt
 </details>
  
  **Bsp. 4:**
-[Play](https://github.com/aziereis/swing/blob/master/mellow_-1.mp3)
+
+<audio controls>
+  <source src="mellow_-1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 <details>
 <summary>Auflösung</summary>
 Stück: In a mellow tone
+ 
 Version: invertiert
 </details>
 
 **Bsp. 5: Alle Versionen des Stücks "Jordu" zum Vergleich: **
 
+original
+<audio controls>
+  <source src="jordu_orig.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
+quantisiert
+
+<audio controls>
+  <source src="jordu_0.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+verdoppelt
+
+<audio controls>
+  <source src="jordu_2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+invertiert
+
+<audio controls>
+  <source src="jordu-1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 
 ## Ergebnisse der Onlinestudie
