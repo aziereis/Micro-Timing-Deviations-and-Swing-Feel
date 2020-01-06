@@ -57,17 +57,92 @@ Schematische Darstellung der Quantisierung:
 <img src="https://github.com/aziereis/swing/blob/master/manipulation.png" alt="manipulation" height="207">
 
 Das neue Quantisierungsraster zeigt als neue swing ratio (dunkelblau gestrichelte Linie) die durchschnittliche swing ratio für das jeweilige Stück an. In diesem Beispiel wäre die swing ratio kleiner (d.h. < 2:1) als für die Klassifizierung (hellblau gestrichelte Linie). 
-Da Musiker, so geübt und professionell sie spielen können, selten perfekt genau konstant die gleiche swing ratio zeigen (unabhängig davon, ob sie das überhaupt wollen), gibt es immer auch kleine Abweichungen von der durchschnittlichen swing ratio. 
+Da Musiker, so geübt und professionell sie spielen können, selten konstant die exakt gleiche swing ratio zeigen (unabhängig davon, ob sie das überhaupt wollen), gibt es immer auch kleine Abweichungen von der durchschnittlichen swing ratio. 
 Bei der Quantisierung werden alle Notenanfänge auf das neue Quantisierungsraster verschoben. Damit ist für jeden Takt und jede Zählzeit festgelegt, wann der Beginn jeder Note ist und die swing ratio ist konstant von Beginn bis Ende des Stücks. Die Länge und Intensität (der Anschlag) wurden nicht verändert. 
 
-Für jedes Stück und für jede Manipulation wurden dann verschiedene Maße und Aspekte des Rhythmus untersucht. z.B. die durchschnittliche swing ratio, die mittlere Abweichung von der durchschnittlichen swing ratio (wie stark einzelne Noten variieren), das Tempo etc. 
+Für jedes Stück und für jede Manipulation wurden dann verschiedene Maße und Aspekte des Rhythmus untersucht. z.B. die durchschnittliche swing ratio, die mittlere Abweichung von der durchschnittlichen swing ratio (wie stark einzelne Noten variieren), das Tempo etc.. 
 
 ### 3. Experimentelle Onlinestudie
-Die drei Manipulationen und die originalen Aufnahme ergaben zusammen vier Versionen für jedes Jazzstück, die wir testen wollten. Dazu erstellten wir eine Online-Hör-Studie und luden Musiker mit unterschiedlichem Hintergrund und Expertise ein (Professionelle Musiker\*innen, Amateurmusiker\*innen, mit Jazz Hintergrund und ohne)
+Die drei Manipulationen und die originalen Aufnahme ergaben zusammen vier Versionen für jedes Jazzstück, die wir testen wollten. Dazu erstellten wir eine Online-Hör-Studie und luden Musiker mit unterschiedlichem Hintergrund und Expertise ein (siehe Tabelle unten).
+Die Teilnehmer*\innen hörten dabei alle zwölf Stücke aber es wurde zugelost, welche Version des Stücks sie jeweils hören konnten. 
+Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es technisch korrekt gespielt wurde und wie sehr es swingt. 
 
+! Den Teilnemer\*innen unserer Studie haben wir nicht verraten, um welches Stück und um welche Version es sich handelt. 
+
+Im Folgenden sind vier Beispiele präsentiert (Welche Version eines Stück präsentiert wurde, finden Sie jeweils darunter unter "Auflösung") 
+
+**Bsp. 1:**
+<figure>
+    <audio
+        controls
+        src="https://github.com/aziereis/swing/blob/master/getaround_0.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+<details>
+<summary>Auflösung</summary>
+Stück: Don't get around much anymore
+Version: quantisiert
+</details>
+
+**Bsp. 2:**
+<figure>
+    <audio
+        controls
+        src="https://github.com/aziereis/swing/blob/master/four_orig.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+<details>
+<summary>Auflösung</summary>
+Stück: Four
+Version: original
+</details>
+
+ **Bsp. 3:**
+ <figure>
+    <audio
+        controls
+        src="https://github.com/aziereis/swing/blob/master/papermoon_2.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+<details>
+<summary>Auflösung</summary>
+Stück: It's only a papermoon
+Version: verdoppelt
+</details>
  
- 
-## Ergebnisse
+ **Bsp. 4:**
+ <figure>
+    <audio
+        controls
+        src="https://github.com/aziereis/swing/blob/master/mellow_-1.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+<details>
+<summary>Auflösung</summary>
+Stück: In a mellow tone
+Version: invertiert
+</details>
+
+**Bsp. 5: Alle Versionen des Stücks "Jordu" zum Vergleich: **
+
+
+
+
+## Ergebnisse der Onlinestudie
+
+
 
 
 [Link](url) and ![Image](src)
