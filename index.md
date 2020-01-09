@@ -30,10 +30,9 @@ Für die zwölf Musikstücke (alle Jazz Standards) nahmen wir einen professionel
 Die Manipulation der Aufnahmen erfolgte in mehreren Schritten. Da das Piano digital aufgenommen wurde, waren Anfang und Dauer einer gespielten Note sowie Intensität (Tastenanschlag) aufgezeichnet und konnten ebenfalls digital verändert werden. 
 Zunächst aber mussten alle Noten und ihre Zählzeiten klassifiziert werden (also welche Note sich z.B. über die ersten beiden von drei Triolen erstreckt (base note) und welche die letzte Triole (swing note) ausmacht). 
 
-**Exkurs: Was bedeutet *Swing Ratio*?**
 <details>
 <summary>
-Zum Aufklappen hier klicken.
+Exkurs: Was bedeutet Swing Ratio? (Hier klicken)
  </summary>
 
 
@@ -152,29 +151,29 @@ Version: invertiert
 <audio controls>
   <source src="jordu_orig.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
-</audio>
+</audio><br>
 original<br>
 
 
 <audio controls>
   <source src="jordu_0.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
-</audio>
+</audio><br>
 quantisiert<br>
 
 
 <audio controls>
   <source src="jordu_2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
-</audio>
+</audio><br>
 verdoppelt<br>
 
 
 <audio controls>
   <source src="jordu_-1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
-</audio><br><br>
-invertiert<br>
+</audio><br>
+invertiert<br><br>
 
 ## Ergebnisse der Onlinestudie
 
