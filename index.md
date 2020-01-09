@@ -31,6 +31,11 @@ Die Manipulation der Aufnahmen erfolgte in mehreren Schritten. Da das Piano digi
 Zunächst aber mussten alle Noten und ihre Zählzeiten klassifiziert werden (also welche Note sich z.B. über die ersten beiden von drei Triolen erstreckt (base note) und welche die letzte Triole (swing note) ausmacht). 
 
 **Exkurs: Was bedeutet *Swing Ratio*?**
+<details>
+<summary>
+Zum Aufklappen hier klicken.
+ </summary>
+
 
 Swing Ratio ist das Verhältnis der Länge aufeinanderfolgender Achtelnoten. Beim straight feel (wie man es z.B. aus der klassischen Musik kennt) werden die Achtel duolisch gespielt (haben also die gleiche Länge). Die Swing Ratio wäre hierbei 1:1. 
  
@@ -42,7 +47,7 @@ Bei einer Swing Ratio von 2:1 (perfekte Triole) würde die erste Achtel Note gen
  <img src="swung.png" alt="swung" height="70">
  
 In der Realität und von Musiker\*innen gespielt sind Swing Ratios weder perfekt konstant noch liegen sie unbedingt genau bei 2:1 sondern können je nach Präferenz auch weicher (<2:1) oder härter sein (>2:1). Zusätzlich muss der Beginn der ersten Achtel nicht perfekt auf Schlag liegen sondern kann früher oder später kommen. 
- 
+</details> 
 
 Um die Noten unseres Pianisten zu klassifizieren nahmen wir den quantisierten Track mit Bass und Schlagzeug als Referenz. Da die Swing Ratio des Tracks exakt 2:1 (perfekte Triole) war, wurden alle Noten entsprechend ihrer Nähe zu diesem Raster eingeteilt (siehe Bild unten). Die Noten wurden hierbei noch nicht verschoben sondern nur kategorisiert. 
 
