@@ -38,19 +38,19 @@ Exkurs: Was bedeutet Swing Ratio? (Hier klicken)
 
 Swing Ratio ist das Verhältnis der Länge aufeinanderfolgender Achtelnoten. Beim straight feel (wie man es z.B. aus der klassischen Musik kennt) werden die Achtel duolisch gespielt (haben also die gleiche Länge). Die Swing Ratio wäre hierbei 1:1. 
  
- <img src="straight.png" alt="straight" height="40">
+ <img src="straight.png" alt="straight" height="40"><br>
  
 Wichtig ist hierbei, dass die Länge nicht die eigentliche Dauer des Klangs ist, sondern lediglich anzeigt, wann die nächste Note einsetzt. Es spielt also keine Rolle ob die Note nur kurz oder länger angeschlagen wird. 
 Bei einer Swing Ratio von 2:1 (perfekte Triole) würde die erste Achtel Note genau doppelt so lange dauern, wie die letzte. Die mittlere Note der Triole wird in der Regel nicht extra angespielt sondern mit der ersten verbunden oder durch eine Pause ersetzt. Das kann folgendermaßen notiert werden:
  
- <img src="swung.png" alt="swung" height="70">
+ <img src="swung.png" alt="swung" height="70"><br>
  
 In der Realität und von Musiker\*innen gespielt sind Swing Ratios weder perfekt konstant noch liegen sie unbedingt genau bei 2:1 sondern können je nach Präferenz auch weicher (<2:1) oder härter sein (>2:1). Zusätzlich muss der Beginn der ersten Achtel nicht perfekt auf Schlag liegen sondern kann früher oder später kommen. 
 </details> 
-
+ <br><br>
 Um die Noten unseres Pianisten zu klassifizieren nahmen wir den quantisierten Track mit Bass und Schlagzeug als Referenz. Da die Swing Ratio des Tracks exakt 2:1 (perfekte Triole) war, wurden alle Noten entsprechend ihrer Nähe zu diesem Raster eingeteilt (siehe Bild unten). Die Noten wurden hierbei noch nicht verschoben sondern nur kategorisiert. 
 
-<img src="classification.png" alt="classification" height="207">
+<img src="classification.png" alt="classification" height="207"><br>
  
 Schematische Darstellung der Notenklassifizierung: Das Raster wurde in drei Bereiche eingeteilt (rot = base note / erste Achtel,  weiß = mittlere Achtel / pause, blau = swing note / letzte Achtel). Wenn der Beginn der gespielten Note (Noten sind hierbei als graue Balken angezeigt) in einen der Bereiche fällt, wird sie dementsprechend klassifiziert. Für die Klassifikation spielt die Länge der Note (Länge des Balkens) keine Rolle sondern nur der Beginn (Anfang des Balkens). 
 
@@ -73,7 +73,7 @@ Jedes Stück wurde danach auf drei verschiedene Arten manipuliert: Hierbei wurde
 
 Schematische Darstellung der Quantisierung:
 
-<img src="manipulation.png" alt="manipulation" height="207">
+<img src="manipulation.png" alt="manipulation" height="207"><br>
 
 Das neue Quantisierungsraster zeigt als neue Swing Ratio (dunkelblau gestrichelte Linie) die durchschnittliche Swing Ratio für das jeweilige Stück an. In diesem Beispiel wäre die Swing Ratio kleiner (d.h. < 2:1) als für die Klassifizierung (hellblau gestrichelte Linie). 
 Da Musiker\*innen, so geübt und professionell sie spielen können, selten konstant die exakt gleiche Swing Ratio zeigen (unabhängig davon, ob sie das überhaupt wollen), gibt es immer auch kleine Abweichungen von der durchschnittlichen Swing Ratio. 
@@ -86,7 +86,7 @@ Die drei Manipulationen und die originalen Aufnahme ergaben zusammen vier Versio
 Die Teilnehmer\*innen hörten dabei alle zwölf Stücke aber es wurde zugelost, welche Version des Stücks sie jeweils hören konnten. 
 Nach jedem Stück sollten sie bewerten, inwiefern es natürlich klang, ob es technisch korrekt gespielt wurde und wie sehr es swingt. 
 
-<img src="sample.png" alt="Sample" height="300">
+<img src="sample.png" alt="Sample" height="300"><br>
 
 
 ### 4. Beispiele der gespielten Stücke und Versionen 
